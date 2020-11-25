@@ -1,2 +1,0 @@
-# Afstuderen
-Afstudeerproject bij NFI
